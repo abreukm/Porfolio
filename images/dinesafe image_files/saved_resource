@@ -1,0 +1,27 @@
+
+var ftGUID_4401206="4420B94EC04D19";
+var ftConfID_4401206="0";
+var ftParams_4401206="ftx=&fty=&ftadz=&ftscw=&ft_custom=6054833881332090870&ftOBA=1&ft_ifb=1&ft_domain=www.blogto.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.blogto.com%2Fcity%2F2009%2F10%2Fmark_this_as_a_fail_for_dinesafe_as_torontos_restaurant_inspection_program_yet_to_offer_non-english_guidelines%2F&ft_section=__89974895136748513912164068821466245815&cachebuster=617882.5211803404";
+var ftKeyword_4401206="";
+var ftCustom_4401206="6054833881332090870";
+var ftSection_4401206="__89974895136748513912164068821466245815";
+var ftSegment_4401206="w2c,acfu,xtx";
+var ftSegmentList_4401206=[{s:'w2c'},{s:'acfu'},{s:'xtx'}];
+var ftRuleMatch_4401206="0";
+var ftTimestamp_4401206="1602959580";
+var ftImp4401206 = {};
+ftImp4401206.privacy = "x";
+ftImp4401206.guidAge = "253";
+ftImp4401206.impID = "1C49D0BF-768D-7EFD-1E4A-D8F01B7165F4";
+ftImp4401206.duid = "FT:4420B94EC04D19";
+
+ftImp4401206.ft_tpplid = "";
+ftImp4401206.ft_c = {};
+ftImp4401206.gdpr = "";
+ftImp4401206.gdpr_consent = "";
+ftImp4401206.gdpr_pd = "";
+ftImp4401206.oob_consent = "";
+ftImp4401206.gdprStoredConsent = "";
+ftImp4401206.us_privacy = "";
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/440/4401206/3139318/js/j-4401206-3139318.js" id="ftscript_m4401206" name="ftscript_m4401206"></scr'+'ipt>');
